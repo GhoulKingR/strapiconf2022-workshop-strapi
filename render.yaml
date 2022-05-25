@@ -35,21 +35,21 @@ services:
       - key: APP_KEYS
         generateValue: true
 
-#   - type: web
-#     name: productivity-tips-web
-#     env: node
-#     plan: free
-#     # Update the following line with your Remix GitHub repo
-#     repo: https://github.com/TheGhoulRe/strapiconf2022-workshop-remix
-#     branch: step-5
-#     buildCommand: npm install && npm run build
-#     startCommand: npm start
-#     envVars:
-#       - key: STRAPI_URL_BASE
-#         fromService:
-#           type: web
-#           name: productivity-tips-api
-#           envVarKey: RENDER_EXTERNAL_URL
+  - type: web
+    name: productivity-tips-web
+    env: node
+    plan: free
+    # Update the following line with your Remix GitHub repo
+    repo: https://github.com/TheGhoulRe/strapiconf2022-workshop-remix
+    branch: step-5
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: STRAPI_URL_BASE
+        fromService:
+          type: web
+          name: productivity-tips-api
+          envVarKey: RENDER_EXTERNAL_URL
 
 databases:
   - name: strapi
