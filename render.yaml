@@ -18,6 +18,8 @@ services:
         sync: false
       - key: CLOUDINARY_KEY
         sync: false
+      - key: RENDER_EXTERNAL_URL
+        sync: false
       - key: CLOUDINARY_SECRET
         sync: false
       - key: DATABASE_URL
