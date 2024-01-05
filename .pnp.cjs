@@ -6193,7 +6193,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["co-body", "npm:5.2.0"],\
             ["inflation", "npm:2.0.0"],\
-            ["qs", "npm:6.9.4"],\
+            ["qs", "npm:6.11.2"],\
             ["raw-body", "npm:2.4.1"],\
             ["type-is", "npm:1.6.18"]\
           ],\
@@ -8728,7 +8728,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cookie-signature", "npm:1.1.0"],\
             ["jwk-to-pem", "npm:2.0.4"],\
             ["jws", "npm:4.0.0"],\
-            ["qs", "npm:6.9.4"],\
+            ["qs", "npm:6.11.2"],\
             ["request-compose", "npm:2.1.0"],\
             ["request-oauth", "npm:1.0.0"]\
           ],\
@@ -13157,13 +13157,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["side-channel", "npm:1.0.4"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:6.9.4", {\
-          "packageLocation": "./.yarn/cache/qs-npm-6.9.4-7b853cfa85-5ac0bd145f.zip/node_modules/qs/",\
-          "packageDependencies": [\
-            ["qs", "npm:6.9.4"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["queue-microtask", [\
@@ -14321,7 +14314,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["request-oauth", "npm:1.0.0"],\
             ["oauth-sign", "npm:0.9.0"],\
-            ["qs", "npm:6.9.4"],\
+            ["qs", "npm:6.11.2"],\
             ["uuid", "npm:3.4.0"]\
           ],\
           "linkType": "HARD"\
