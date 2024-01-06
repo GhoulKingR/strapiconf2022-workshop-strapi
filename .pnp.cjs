@@ -292,7 +292,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@babel/types", "npm:7.12.12"],\
             ["@babel/helper-validator-identifier", "npm:7.12.11"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["to-fast-properties", "npm:2.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -5293,7 +5293,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helper-module-imports", "npm:7.16.0"],\
             ["@types/styled-components", null],\
             ["babel-plugin-syntax-jsx", "npm:6.18.0"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["styled-components", "virtual:f840ef4228de75763c7e13fbc461a23ef15b259396f2afb9d74ea916d9a7707d03009ccdfc4122741aa3959202388cf8cf8dbaaa08abc7c75e98d7ed35985ffc#npm:5.3.3"]\
           ],\
           "packagePeers": [\
@@ -6143,7 +6143,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cloudinary", "npm:1.27.1"],\
             ["cloudinary-core", "virtual:c51b76e0bca5360e64f94121316095befe7526e668aba39c51ff50ee03f82a27ae4bca48baeb1175464576ab73fa785fbd83e2ac713d9741c387614d3ca4d0be#npm:2.11.3"],\
             ["core-js", "npm:3.6.5"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["q", "npm:1.5.1"]\
           ],\
           "linkType": "HARD"\
@@ -6162,7 +6162,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["cloudinary-core", "virtual:c51b76e0bca5360e64f94121316095befe7526e668aba39c51ff50ee03f82a27ae4bca48baeb1175464576ab73fa785fbd83e2ac713d9741c387614d3ca4d0be#npm:2.11.3"],\
             ["@types/lodash", null],\
-            ["lodash", "npm:4.17.20"]\
+            ["lodash", "npm:4.17.21"]\
           ],\
           "packagePeers": [\
             "@types/lodash",\
@@ -9502,7 +9502,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cli-width", "npm:3.0.0"],\
             ["external-editor", "npm:3.1.0"],\
             ["figures", "npm:3.2.0"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["mute-stream", "npm:0.0.8"],\
             ["run-async", "npm:2.4.1"],\
             ["rxjs", "npm:6.6.7"],\
@@ -10731,13 +10731,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["lodash", [\
-        ["npm:4.17.20", {\
-          "packageLocation": "./.yarn/cache/lodash-npm-4.17.20-c0db62021c-b31afa0973.zip/node_modules/lodash/",\
-          "packageDependencies": [\
-            ["lodash", "npm:4.17.20"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:4.17.21", {\
           "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-eb835a2e51.zip/node_modules/lodash/",\
           "packageDependencies": [\
@@ -12975,7 +12968,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/pretty-error-npm-4.0.0-7cca1fe4ad-a5b9137365.zip/node_modules/pretty-error/",\
           "packageDependencies": [\
             ["pretty-error", "npm:4.0.0"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["renderkid", "npm:3.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -17102,7 +17095,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["yup", "npm:0.32.9"],\
             ["@babel/runtime", "npm:7.12.5"],\
             ["@types/lodash", "npm:4.14.178"],\
-            ["lodash", "npm:4.17.20"],\
+            ["lodash", "npm:4.17.21"],\
             ["lodash-es", "npm:4.17.21"],\
             ["nanoclone", "npm:0.2.1"],\
             ["property-expr", "npm:2.0.4"],\
