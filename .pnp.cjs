@@ -8650,10 +8650,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["got", [\
-        ["npm:11.8.3", {\
-          "packageLocation": "./.yarn/cache/got-npm-11.8.3-caf98d599b-3b6db107d9.zip/node_modules/got/",\
+        ["npm:11.8.6", {\
+          "packageLocation": "./.yarn/cache/got-npm-11.8.6-89e7cd5d67-bbc783578a.zip/node_modules/got/",\
           "packageDependencies": [\
-            ["got", "npm:11.8.3"],\
+            ["got", "npm:11.8.6"],\
             ["@sindresorhus/is", "npm:4.2.0"],\
             ["@szmarczak/http-timer", "npm:4.0.6"],\
             ["@types/cacheable-request", "npm:6.0.2"],\
@@ -12274,7 +12274,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/package-json-npm-7.0.0-d6434d1150-c03699b057.zip/node_modules/package-json/",\
           "packageDependencies": [\
             ["package-json", "npm:7.0.0"],\
-            ["got", "npm:11.8.3"],\
+            ["got", "npm:11.8.6"],\
             ["registry-auth-token", "npm:4.2.1"],\
             ["registry-url", "npm:5.1.0"],\
             ["semver", "npm:7.3.5"]\
