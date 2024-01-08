@@ -7405,20 +7405,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["elliptic", [\
-        ["npm:6.5.3", {\
-          "packageLocation": "./.yarn/cache/elliptic-npm-6.5.3-783c509c01-fe1e546ed3.zip/node_modules/elliptic/",\
-          "packageDependencies": [\
-            ["elliptic", "npm:6.5.3"],\
-            ["bn.js", "npm:4.11.9"],\
-            ["brorand", "npm:1.1.0"],\
-            ["hash.js", "npm:1.1.7"],\
-            ["hmac-drbg", "npm:1.0.1"],\
-            ["inherits", "npm:2.0.4"],\
-            ["minimalistic-assert", "npm:1.0.1"],\
-            ["minimalistic-crypto-utils", "npm:1.0.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:6.5.4", {\
           "packageLocation": "./.yarn/cache/elliptic-npm-6.5.4-0ca8204a86-d56d21fd04.zip/node_modules/elliptic/",\
           "packageDependencies": [\
@@ -10222,7 +10208,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["jwk-to-pem", "npm:2.0.4"],\
             ["asn1.js", "npm:5.4.1"],\
-            ["elliptic", "npm:6.5.3"],\
+            ["elliptic", "npm:6.5.4"],\
             ["safe-buffer", "npm:5.2.1"]\
           ],\
           "linkType": "HARD"\
